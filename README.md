@@ -1,5 +1,5 @@
 # DevTrackR.API
-- Aplicação de cadastro, atualização e acompanhamento de pacotes.
+- API de gerenciamento de pacotes.
 
 # <h2>Tecnologias</h2>
 - C# e ASP.NET Core com .NET 6
@@ -11,3 +11,6 @@
 - Padrão Repository
 - SQL Server
 - Azure Data Studio
+
+# <h2>Funcionalidades</h2>
+- Cadastro, detalhes, atualização e acompanhamento de pacotes.
